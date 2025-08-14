@@ -1,5 +1,5 @@
 # obrigatorios
-user_token = ""
+user_token = "MTMzODY2Mjg2OTc0MjY1MzQ5Mg.1J-t6jPrl7uKrfsCcNcMMzEoqog"
 catch_id = ""
 prefix = "!/"
 
@@ -11,3 +11,4 @@ catch_id5 = ""
 catch_id6 = ""
 
 ping = "" # id do usuario a ser pingado quando captcha aparecer
+
